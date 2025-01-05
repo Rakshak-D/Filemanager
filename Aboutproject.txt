@@ -1,5 +1,3 @@
-This is a basic filemanager,written using shell script.
-You can create new files, and type contents to file.
-You can set password to individual files.
-You can access files by typing the filename and correct password.
-You can also view accessible files.
+> This is a basic file manager, written in shell script.
+> It allows you to create new files and add content.
+> You can secure files with individual passwords.
