@@ -1,0 +1,21 @@
+# Runtime-generated files
+Files.csv
+*.txt
+
+# Temporary files
+*.bak
+*.tmp
+*~
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System and OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
