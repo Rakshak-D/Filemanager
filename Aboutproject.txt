@@ -1,3 +1,0 @@
-> This is a basic file manager, written in shell script.
-> It allows you to create new files and add content.
-> You can secure files with individual passwords.
